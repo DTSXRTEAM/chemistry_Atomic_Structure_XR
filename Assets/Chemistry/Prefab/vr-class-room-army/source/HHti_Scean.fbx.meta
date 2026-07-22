@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: fa787669a11e99049bf1b62588e67365
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barner_03
+    second: {fileID: 2100000, guid: 845b4a3c4ff783341b4b6a9fae18d261, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board
+    second: {fileID: 2100000, guid: 1ed7999316909494ebb86f4feb861ff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 21a8c943798fbab4bb891b0add5d7f31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_01
+    second: {fileID: 2100000, guid: 2f40232585ec0bd4bae9ded3f708f892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barner_02
+    second: {fileID: 2100000, guid: 3ade51f43a2c3c749a106b036c51df02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown_metal
+    second: {fileID: 2100000, guid: 4bca22989e7933b418b9b9948302330d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chart_01
+    second: {fileID: 2100000, guid: 67683bd7c0210a946879ddc632f5d7da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clock
+    second: {fileID: 2100000, guid: 1ab7af52756501340a9ec65d4695c9ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cortain
+    second: {fileID: 2100000, guid: ef65bca3afbd22b4f8bd7c0fd68c2af6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fan_pankha
+    second: {fileID: 2100000, guid: 5298376531fe26c4a99871037b74fc05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 5b2b4c234020caa47a7156aaba1d7446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground_tils
+    second: {fileID: 2100000, guid: f5d7b86f110bc4049af5f91aa2362e98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: d3e2f98c5a2ad2944a08ee4ee3a5914d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_FDX_Aircon
+    second: {fileID: 2100000, guid: 76b2e04e767a4ee4a91c4c73e4824f67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_light
+    second: {fileID: 2100000, guid: e08735178f5825c4989a004b3f0c6fab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poster_AR_VR
+    second: {fileID: 2100000, guid: 0d9b64bb6521bbc47b5190cbdb5b5ff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_metal
+    second: {fileID: 2100000, guid: 20b2351448b2fb84e9150c81f57d0710, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sweevh_bord
+    second: {fileID: 2100000, guid: c97d7a92e46110e4d80d5c37397b761b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall1
+    second: {fileID: 2100000, guid: b3fb0fbe6edd4c74cb490afd6c954c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood1
+    second: {fileID: 2100000, guid: 869e6a2a382b54e4d835e80d8e88f1f0, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 106_Calacatta marble tiles PBR texture-seamless
+    second: {fileID: 2800000, guid: 757637f5167deda43a57b4f14c847d4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 133_golden teak fine wood PBR texture seamless
+    second: {fileID: 2800000, guid: 0bd2a4844e640bc4b9bc6cf087298b09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 4bf9f783c5814a93a8cee7b6ff70f119_RGB_Blinds_albedo
+    second: {fileID: 2800000, guid: b7574ba57ac10ab4bb4ee959d17cf04c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 77ba09a5a00d4cb3bb1c083cfad34bf5_N_Blinds_normal
+    second: {fileID: 2800000, guid: c2a2cd5b791171245b7069f3c81204f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 978219b4ba8b405fba8afc82597a00ac_N_mat_FDX_Aircon_NormalOGL
+    second: {fileID: 2800000, guid: a59d19ba014b94748ae1f105e951aa3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board_Base_color
+    second: {fileID: 2800000, guid: baaca20a1822232428ddd122dec04281, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board_Normal_OpenGL
+    second: {fileID: 2800000, guid: 87daa22537a101848a77daa0b46a4d96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Indian-Army-Metaverse
+    second: {fileID: 2800000, guid: 6c7f9dcbd0ad6f44dae06e67d2fb1bf6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SEIKO-QXA799B
+    second: {fileID: 2800000, guid: 6310efd1cea979e4596076e28ddfda5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Screenshot 2025-05-26 114441
+    second: {fileID: 2800000, guid: 0ecd0154ac595df4499703380cd2039e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Screenshot 2025-05-26 114847
+    second: {fileID: 2800000, guid: 6b8a84bdda5cd6d4cb3c93de4aed189c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Screenshot 2025-05-26 114941
+    second: {fileID: 2800000, guid: 54fe63fd012479342940669e9a8a6df8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Table_01_Base_color
+    second: {fileID: 2800000, guid: 02789fe775c6f0944a3525bce4ad0dd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Table_01_Normal_OpenGL
+    second: {fileID: 2800000, guid: e06485d68bd90d64aa92d4123755cf71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e9d143e77b514ecf84866f5d3d8a4f07_RGB_mat_FDX_Aircon_AlbedoTransparency
+    second: {fileID: 2800000, guid: 411b2feb3db498d4eb6eb3f772ccbc94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: electrical-switch-board
+    second: {fileID: 2800000, guid: 29b4bb45c81bb5143a2a0fa640910a14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pngfind.com-fan-png-321684
+    second: {fileID: 2800000, guid: 40725c148bedfeb4f9774524a72c937c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall1_Base_color
+    second: {fileID: 2800000, guid: 82db8a3c9cae8154a8c27da480e6f75a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall1_Normal
+    second: {fileID: 2800000, guid: e099e6071bd3c164c9995c7e23ab0e20, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

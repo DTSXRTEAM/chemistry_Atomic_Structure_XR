@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/3D Laboratory Environment with Appratus/Scenes/Laboratory Scene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Chemistry/Scenes/Chemistry.unity
+    guid: 6dce8b1c0226a684f8f2e0e07ebd3955
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f2c7459e88b50d04782f6a6175f2ae9b, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3e0f772e0f3f9b54cb5acf73eea16178, type: 2}
